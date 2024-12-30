@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "username": "Umarbek",
+        "email": "umarbek@gmail.com",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXSjkWNYkyTK94NswJwN5f4kUJ7eQMn2GJ7w&s"
+    },
+    {
+        "id": "2",
+        "username": "Anvar",
+        "email": "anvar@gmail.com",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH87TKQrWcl19xly2VNs0CjBzy8eaKNM-ZpA&s"
+    },
+    {
+        "id": "3",
+        "username": "Botir",
+        "email": "botir@gmail.com",
+        "img": "https://png.pngtree.com/png-clipart/20230927/original/pngtree-man-avatar-image-for-profile-png-image_13001877.png"
+    },
+    {
+        "id": "4",
+        "username": "Ruslan",
+        "email": "ruslan@gmail.com",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXSjkWNYkyTK94NswJwN5f4kUJ7eQMn2GJ7w&s"
+    },
+    {
+        "id": "5",
+        "username": "Javohir",
+        "email": "javohir@gmail.com",
+        "img": "https://static.vecteezy.com/system/resources/previews/004/607/791/non_2x/man-face-emotive-icon-smiling-male-character-in-blue-shirt-flat-illustration-isolated-on-white-happy-human-psychological-portrait-positive-emotions-user-avatar-for-app-web-design-vector.jpg"
+    },
+    {
+        "id": "6",
+        "username": "Samir",
+        "email": "samir@gmail.com",
+        "img": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png"
+    },
+    {
+        "id": "7",
+        "username": "Elbek",
+        "email": "elbek@gmail.com",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1oLaDJlC-DvPibHvUAluSld6D4KG_Q00x6oMDubpL3K5lLeqWeKn8eUgbQ3ZiWjg6HM&usqp=CAU"
+    },
+    {
+        "id": "8",
+        "username": "Mexroj",
+        "email": "mexroj@gmail.com",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwWLioTR1K_O376p67YoxO2xrJaLOPqAyy2RY9UyB6OLLUiVbEEZscDZBgCpd0F-SKBo&usqp=CAU"
+    },
+    {
+        "id": "9",
+        "username": "Dilshod",
+        "email": "dilshod@gmail.com",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEFKevkwcMG6LqKHjh96E4HfA2_xlp-_Ce900nAbRDOLdlrtlUg8na64044p-NaPs7zpI&usqp=CAU"
+    },
+    {
+        "id": "10",
+        "username": "Behruz",
+        "email": "behruz@gmail.com",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrR9P2-UIJSJ63f6D2QglZOEoPyGeu1GjbFjDgaoDpAtYLQ7isBiJ1aIIzXorO1PYF6vU&usqp=CAU"
+    },
+    {
+        "id": "11",
+        "username": "Ozodbek",
+        "email": "ozodbek@gmail.com",
+        "img": "https://static.vecteezy.com/system/resources/thumbnails/024/183/538/small/male-avatar-portrait-of-a-business-man-in-a-suit-illustration-of-male-character-in-modern-color-style-vector.jpg"
+    },
+    {
+        "id": "12",
+        "username": "SHohrux",
+        "email": "shohrux@gmail.com",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXik_sHWL1JWBKr3QCy_9oBA1r0nGpjGEn2TneXrz1V0UwBGZ6GjFXPGEekNs6hNKzD0&usqp=CAU"
+    }
+]

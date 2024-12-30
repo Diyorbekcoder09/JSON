@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.fruits {
+    max-width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+.fruits::-webkit-scrollbar-thumb {
+    background-color: cadetblue;
+    border-radius: 15px;
+
+}
+
+.fruits::-webkit-scrollbar {
+    background-color:burlywood;
+    width: 10px;
+    padding: 5px;
+}

@@ -1,0 +1,45 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 400px;
+    padding: 20px;
+    margin-bottom: 30px;
+    background-color: bisque;
+}
+
+body{
+    background-color: rgb(243, 243, 243);
+}
+
+.header_logo {
+    font-size: 34px;
+    cursor: pointer;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header_linklar {
+    display: flex;
+    align-items: center;
+    color: white;
+    gap: 40px;
+}
+
+a {
+    color: cadetblue;
+    text-decoration: none;
+    transition: .5s;
+    border-bottom: 2px solid transparent;
+    font-size: 20px;
+}
+
+a:hover {
+    transition: .5s;
+    border-bottom: 2px solid cadetblue;
+}
+
+.header_icon {
+    font-size: 25px;
+    cursor: pointer;
+}
